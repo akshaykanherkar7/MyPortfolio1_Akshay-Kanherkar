@@ -58,7 +58,7 @@ const showMenu = ( toggleId, navId ) => {
   const sr = ScrollReveal( {
     origin: "top",
     distance: "80px",
-    duration: 2000,
+    duration: 800,
     reset: true,
   } );
   
